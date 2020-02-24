@@ -1,8 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-username = input("Enter your username: ")
-password = input("Enter your password: ")
+username = "Sample"
+password = "123456789"
 
 url = ("https://www.instagram.com/accounts/login/")
 
